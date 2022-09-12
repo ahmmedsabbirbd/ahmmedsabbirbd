@@ -1,13 +1,32 @@
-<h1 align="center">Hi 👋, I'm Sabbir Ahmmed</h1>
-<h3 align="center">A passionate Web Designer Expert & Front-End Developer from Bangladesh</h3>
-<img src="https://ahmmedsabbirbd.github.io/Api.Me/linkedin/banner.svg"  alt="">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ahmmedsabbirbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahmmedsabbirbd" height="30" width="40" /></a>
-<a href="https://twitter.com/ahmmedsabbirbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmmedsabbirbd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmmedsabbirbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmmedsabbirbd" height="30" width="40" /></a>
-<a href="https://fb.com/ahmmedsabbirbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmmedsabbirbd" height="30" width="40" /></a>
-</p>
+<div>
+	<h3>Hi there 👋, I’m Sabbir Ahmmed</h3>
+	<h4>A passionate Responsive Web Design Specialist | Frontend Web Developer from Bangladesh</h4>
+	<p>
+		<img src="https://ahmmedsabbirbd.github.io/Api.Me/linkedin/banner.svg?fbclid=IwAR1HetUSRGS4QNnVmS_rujAsEDlL0RiEkJE8j0LykBOVDQiushXymx2S4Bc" alt="A passionate Responsive Web Design Specialist | Frontend Web Developer from Bangladesh">
+	</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+	<p>My work is very passionate and dedicated to me and the joy of learning a new thing always thrills me. I have acquired enough skills for you to accomplish your work perfectly</p>
+	
+	<p>Skills: HTML / CSS / JavaScript / Bootstrap / jQuery / Sass / Tailwind / React</p>
+	
+	<ul>
+		<li>🔭 I’m currently working on a project base</li>
+		<li>🌱 I’m currently learning Vue.js / Node.js / Express / MongoDB</li>
+		<li>💬 Ask me about Responsive Web Design / Front-end web developer / SVG Animation</li>
+		<li>⚡ Fun fact: Really</li>
+	</ul>
+
+	<p>
+		<a href="https://github.com/ahmmedsabbirbd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="40"></a>  
+		<a href="https://www.linkedin.com/in/ahmmedsabbirbd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="linkedin" height="40"></a>  
+		<a href="https://www.facebook.com/ahmmedsabbirbd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40"></a>  
+		<a href="https://www.instagram.com/ahmmedsabbirbd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40"></a>  
+		<a href="https://twitter.com/ahmmedsabbirbd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40"></a>  
+		<a href="https://codepen.io/ahmmedsabbirbd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="40"></a>  
+		<a href="https://stackoverflow.com/users/ahmmedsabbirbd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="40"></a>  
+		<a href="https://www.reddit.com/user/ahmmedsabbirbd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="40"></a>  
+		<a href="https://sabbir-me.netlify.app"><img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png" alt="website" height="40"></a>
+	</p>
+	<p><img src="https://metrics.lecoq.io/ahmmedsabbirbd" alt="GitHub metrics"></p>
+	<p><img src="https://gpvc.arturio.dev/ahmmedsabbirbd" alt="Profile views"></p>
+</div>
