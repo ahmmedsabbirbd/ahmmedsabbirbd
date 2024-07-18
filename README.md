@@ -1,19 +1,24 @@
-### Hi there 👋, I'm Sabbir Ahmmed
-#### A passionate Responsive Web Design Specialist | Frontend Web Developer from Bangladesh
-![A passionate Responsive Web Design Specialist | Frontend Web Developer from Bangladesh](https://ahmmedsabbirbd.github.io/Api.Me/linkedin/banner.svg?fbclid=IwAR1HetUSRGS4QNnVmS_rujAsEDlL0RiEkJE8j0LykBOVDQiushXymx2S4Bc)
+### Hi, I am Sabbir Ahmmed 👋
 
-My work is very passionate and dedicated to me and the joy of learning a new thing always thrills me. I have acquired enough skills for you to accomplish your work perfectly
-
-Skills: HTML / CSS / JavaScript / Bootstrap / jQuery / Sass / Tailwind CSS / React
-
-- 🔭 I’m currently working on a project base 
-- 🌱 I’m currently learning Vue.js / Express / MongoDB 
-- 💬 Ask me about Responsive Web Design / Front-end web developer / SVG Animation  
-- ⚡ Fun fact: Really 
+I'm a passionate programmer, self-motivated, and quick learner. With more than 3 years of expertise in Front-End Design for web template and applications. You want or you saw or you thinking, I need in Frontend, I will do it in js, html, and css (if technically possible). I have 1+ years of experience in Laravel Framework. I'm able to develop secure, efficient and scalable web applications by writing standard and well documented codes. I want to utilize my professional skills along with my institutional skills to implement innovative ideas to convert reality (applications).
 
 
-[<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg' alt='github' height='40'>](https://github.com/ahmmedsabbirbd)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmmedsabbirbd/)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ahmmedsabbirbd)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ahmmedsabbirbd/)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ahmmedsabbirbd)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg' alt='codepen' height='40'>](https://codepen.io/ahmmedsabbirbd)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/ahmmedsabbirbd)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/ahmmedsabbirbd)  [<img src='https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png' alt='website' height='40'>](https://sabbir-me.netlify.app)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
-![GitHub metrics](https://metrics.lecoq.io/ahmmedsabbirbd)  
+### Numbers
+![ahmmedsabbirbd's Stats](https://github-readme-stats.vercel.app/api?username=ahmmedsabbirbd&theme=transparent&show_icons=true&count_private=true&card_width=846)
 
-![Profile views](https://gpvc.arturio.dev/ahmmedsabbirbd) 
+![ahmmedsabbirbd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmmedsabbirbd&theme=transparent&card_width=846)
+
+![ahmmedsabbirbd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmedsabbirbd&theme=transparent&show_icons=true&card_width=846)
+
+### Where to find me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmmedsabbirbd/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ahmmedsabbirbd)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ahmmedsabbirbd)
