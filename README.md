@@ -10,7 +10,7 @@ I excel in WordPress plugin development, crafting custom solutions to enhance fu
 Beyond development, I transform innovative ideas into fully functional applications in PHP, MySQL, and JavaScript—provided they are validated—leveraging both my professional expertise and institutional knowledge.
 
 🚀 Contributed Products  
-- 🌓 [**Stock Notifier for WooCommerce**]([https://wppool.dev/wp-dark-mode/?utm_source=github&utm_medium=azizultex](https://wordpress.org/plugins/stock-notifier-for-woocommerce/)) -  Back in Stock Notifier for WooCommerce with easy in-stock notifications and multi-vendor support.
+- 🌓 [**Stock Notifier for WooCommerce**](https://wordpress.org/plugins/stock-notifier-for-woocommerce) -  Back in Stock Notifier for WooCommerce with easy in-stock notifications and multi-vendor support.
 
 My Products  
 - 🌓 [**SmartManagement SaaS**](#) - Tile Have 
