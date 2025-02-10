@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=azizultex&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=ahmmedsabbirbd&color=brightgreen)
 
 I'm a passionate and self-motivated programmer with a deep understanding of OOP, PHP, MySQL, and JavaScript. With over three years of hands-on experience in Front-End Design for web templates and applications, I specialize in turning ideas into reality. If you need anything on the frontend, I can bring it to life using JavaScript, HTML, and CSS (where technically feasible).
 
