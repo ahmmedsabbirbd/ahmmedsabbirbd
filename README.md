@@ -14,14 +14,9 @@ Beyond development, I transform innovative ideas into fully functional applicati
 My Products  
 - 🏥 **Hospital Management SaaS** – A simple and efficient stock management solution for WooCommerce. Easily track your WooCommerce product stock from a single Google Sheet.  
 
+
 Excited to explore new possibilities—let’s connect!
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
 ### Numbers
 ![ahmmedsabbirbd's Stats](https://github-readme-stats.vercel.app/api?username=ahmmedsabbirbd&theme=transparent&show_icons=true&count_private=true&card_width=846)
