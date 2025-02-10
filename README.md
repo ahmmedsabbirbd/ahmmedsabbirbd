@@ -1,6 +1,12 @@
 ### Hi, I am Sabbir Ahmmed 👋
 
-I'm a passionate programmer, self-motivated, and quick learner. Deep knowledge and Hands-on code experience in OOP, PHP, Mysql, and Javascript. With more than 3 years of expertise in Front-End Design for web templates and applications. You want or you saw or you thinking, I need in Frontend, I will do it in Javascript, HTML, and CSS(if technically possible). I have 1+ years of experience in Laravel Framework. I'm able to develop secure, efficient and scalable applications by writing standard and well documented codes. Also your all kind of innovative ideas convet reality (applications) in PHP, Mysql, and Javascript (if validate your innovative idea) with my professional skills along with my institutional skills.
+I'm a passionate and self-motivated programmer with a deep understanding of OOP, PHP, MySQL, and JavaScript. With over three years of hands-on experience in Front-End Design for web templates and applications, I specialize in turning ideas into reality. If you need anything on the frontend, I can bring it to life using JavaScript, HTML, and CSS (where technically feasible).
+
+I have 1+ years of experience in the Laravel framework, enabling me to develop secure, efficient, and scalable applications with clean, well-documented code.
+
+I excel in WordPress plugin development, crafting custom solutions to enhance functionality and user experience.
+
+Beyond development, I transform innovative ideas into fully functional applications in PHP, MySQL, and JavaScript—provided they are validated—leveraging both my professional expertise and institutional knowledge.
 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
