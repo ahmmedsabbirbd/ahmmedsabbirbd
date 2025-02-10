@@ -17,17 +17,3 @@ My Products
 
 
 Excited to explore new possibilities—let’s connect!
-
-
-### Numbers
-![ahmmedsabbirbd's Stats](https://github-readme-stats.vercel.app/api?username=ahmmedsabbirbd&theme=transparent&show_icons=true&count_private=true&card_width=846)
-
-![ahmmedsabbirbd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmmedsabbirbd&theme=transparent&card_width=846)
-
-![ahmmedsabbirbd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmedsabbirbd&theme=transparent&show_icons=true&card_width=846)
-
-### Where to find me
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmmedsabbirbd/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ahmmedsabbirbd)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ahmmedsabbirbd)
